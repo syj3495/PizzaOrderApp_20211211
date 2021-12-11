@@ -51,12 +51,14 @@
 
 
             <TextView
-                android:id="@id/txtPhoneNum"
+                android:id="@+id/txtPhoneNum"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="실제 대표전화 자리"
                 android:textSize="18sp"
                 android:textColor="@color/black"/>
+
+
             <TextView
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
