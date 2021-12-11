@@ -10,7 +10,7 @@ import com.neppplus.pizzaorderapp_20211211.datas.StoreData
 import kotlin.math.min
 
 class StoreAdapter(
-    val mContext : Context
+    val mContext : Context,
     val redID: Int,
     val mList : ArrayList<StoreData>
 
